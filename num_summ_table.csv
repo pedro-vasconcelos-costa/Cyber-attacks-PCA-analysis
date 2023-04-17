@@ -1,0 +1,10 @@
+"","Number (%) missing","Min","Max","Mean","Median","Skewness"
+"Assembled.Payload.Size","9 (1.5%)",-1,81819,48539.21,48119.5,-0.25
+"DYNRiskA.Score","0 (0%)",0.24,0.87,0.61,0.63,-0.67
+"Response.Size","0 (0%)",233406,842935,493422.41,495517,0.01
+"Source.Ping.Time","0 (0%)",80,427,263.53,266,-0.07
+"Connection.Rate","0 (0%)",1.17,1438.98,431.16,387.7,0.7
+"Server.Response.Packet.Time","0 (0%)",88,443,228.5,223,0.19
+"Packet.Size","0 (0%)",1272,1425,1349.03,1350.5,-0.02
+"Packet.TTL","0 (0%)",34,94,63.8,64,-0.02
+"Source.IP.Concurrent.Connection","0 (0%)",7,36,21.56,22,0.07
