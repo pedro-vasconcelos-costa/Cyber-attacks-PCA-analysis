@@ -78,7 +78,7 @@ The smaller the angle between the vectors, the more the features are positively 
 
 ### BiPlot (combination)
 
-	Analysing both plots combined (positioning and vector direction) can give further information about the data. As the vectors of DYNRiskA, Server Response P.T. and Source Ping Time are pointed in the direction where the malicious (Yes) observations cluster is positioned, we can say that malicious events tend to present on average, higher values for those features This can help to identify and flag those events. Packet Size also points in the same direction, but as observed before, it has a much smaller importance to the variance of the data. On the other hand, features with vectors pointing to the opposite direction tend to have smaller values on average.
+Analysing both plots combined (positioning and vector direction) can give further information about the data. As the vectors of DYNRiskA, Server Response P.T. and Source Ping Time are pointed in the direction where the malicious (Yes) observations cluster is positioned, we can say that malicious events tend to present on average, higher values for those features This can help to identify and flag those events. Packet Size also points in the same direction, but as observed before, it has a much smaller importance to the variance of the data. On the other hand, features with vectors pointing to the opposite direction tend to have smaller values on average.
 
 ### Dimension Projection
  
